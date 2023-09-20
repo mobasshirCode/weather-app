@@ -16,7 +16,7 @@ body {
   max-width: 470px;
   height: 138px;
   overflow: hidden;
-  background: linear-gradient(135deg, #00feba, #5b548a);
+  background: linear-gradient(135deg,hsl(209, 93%, 70%),#b56ff3 );
   color: #ffffff;
   margin: 100px auto 0;
   padding: 40px 35px 20px;
